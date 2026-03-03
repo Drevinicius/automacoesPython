@@ -1,4 +1,4 @@
-from automacao import Automacao
+from centralXML import Automacao
 
 automacao = Automacao()
 automacao.manipular_sheet()
